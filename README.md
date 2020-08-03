@@ -1,7 +1,7 @@
 # banco-carrefour-d-tech
 Eu sou Ricardo Silvestre e essa é a minha submissão para o Tech Challenge do Banco Carrefour em parceria com a Digital Innovation One.
 
-O bot criado visa otimizar a comunicação entre clientes e Banco Carrefour através de algumas opções de resolução de problemas e pedidos referentes à fatura do cartão
+O meu bot foi criado com a linguagem python e visa otimizar a comunicação entre clientes e Banco Carrefour através de algumas opções de resolução de problemas e pedidos referentes à fatura do cartão
 
 As opções abordadas foram "Solicitar segunda via" e "Gerenciar avisos do Banco Carrefour", além de uma opção "Outros".
 
